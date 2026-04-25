@@ -1,6 +1,6 @@
 {
   "AEF": {
-    "error": "not well-formed (invalid token): line 1, column 156",
-    "raw": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <6265586275310960216><br><br><a href='javascr"
+    "error": "syntax error: line 1, column 0",
+    "raw": "[{\"FundCode\":\"BAA\"},{\"FundCode\":\"AAA\"},{\"FundCode\":\"BZI\"},{\"FundCode\":\"BKR\"},{\"FundCode\":\"AYK\"},{\"FundCode\":\"BKE\"},{\"FundCode\":\"ECH\"},{\"FundCode\":\"DZF\"},{\"FundCode\":\"DZA\"},{\"FundCode\":\"IGA\"},{\"FundCod"
   }
 }
