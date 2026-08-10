@@ -1,6 +1,6 @@
 {
   "AEF": {
     "error": "syntax error: line 1, column 0",
-    "raw": "[3b24203b-bafa-4aff-a2b9-f615e0899b53],\n[ERR-002],\n[ApiProxy is not found for related URL( /uga/fonbilgilendirme/portal/service/BindHistoryGraphData )!],\n[404],\n[]"
+    "raw": "[440ab42b-8d7a-4547-9658-75ab4120ba3d],\n[ERR-002],\n[ApiProxy is not found for related URL( /uga/fonbilgilendirme/portal/service/BindHistoryGraphData )!],\n[404],\n[]"
   }
 }
